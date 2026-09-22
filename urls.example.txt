@@ -1,0 +1,3 @@
+# Full list of URLs to check. URLs whose domain is not in targets.txt are skipped automatically.
+https://example.com/reservation?id=12345
+https://example.com/mypage

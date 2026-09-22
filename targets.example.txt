@@ -1,0 +1,2 @@
+# List only domains you have approval to scan (one per line, subdomains are included automatically)
+example.com
